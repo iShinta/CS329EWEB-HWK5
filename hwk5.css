@@ -1,0 +1,28 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #000000;
+}
+
+h1{
+	text-align: center;
+	color: white;
+	font-size: 4em;
+}
+
+figure{
+	width: 850px;
+	height: 500px;
+	border: solid 1px white;
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.2em;
+	color: white;
+}
+
+img{
+	width: 640px;
+	height: 480px;
+	float: left;
+	padding: 10px;
+}
